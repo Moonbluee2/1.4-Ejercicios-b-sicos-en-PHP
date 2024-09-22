@@ -1,5 +1,5 @@
 <?php
-// Definir la variable
+// Definir las variable
 $correo = "test_user@example.com";
 
 // Usar interpolación para insertar el correo en una oración
